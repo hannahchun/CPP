@@ -11,3 +11,5 @@ int main() {
     cout << seven_char << " + 1 is " << res << endl;
     return 0;
 }
+
+// 이 방법은 ‘0’≤  ≤‘9’  일 때만 가능
